@@ -1,0 +1,27 @@
+
+
+a{
+  color: #333;
+}
+a:hover{
+  color: #E8D426;
+  text-decoration: none;
+}
+.form-control:focus {
+
+    color: #000;
+    background-color: #fff;
+    border:2px solid #E8D426;
+    outline: 0;
+    box-shadow: none;
+
+}
+
+.btn{
+  background: #E8D426;
+  border: #E8D426;
+}
+.btn:hover {
+  background: #E8D426;
+  border: #E8D426;
+}
